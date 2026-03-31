@@ -1,0 +1,13 @@
+/**
+ *@NApiVersion 2.1
+ *@NScriptType ClientScript
+ */
+define([], () => {
+
+    function pageInit(context) {
+        console.log("Client script loaded");
+    }
+
+    return { pageInit };
+
+});
