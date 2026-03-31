@@ -1,0 +1,14 @@
+.vscode/.alcache/
+.alpackages/
+*.app
+.alcache/
+
+bin/
+obj/
+.vs/
+
+*.code-workspace
+launch.json
+
+.DS_Store
+Thumbs.db
